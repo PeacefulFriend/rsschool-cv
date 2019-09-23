@@ -1,1 +1,1 @@
-# rsschool-cv
+https://peacefulfriend.github.io/rsschool-cv/cv
