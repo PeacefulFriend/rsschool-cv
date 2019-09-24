@@ -1,0 +1,1 @@
+[Curriculum Vitae](https://peacefulfriend.github.io/rsschool-cv/cv)
