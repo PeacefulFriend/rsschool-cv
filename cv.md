@@ -8,3 +8,12 @@ I am novice frontend-developer studying in a speciality of a information securit
 **Programming languages and techologies:** C++, C#, HTML, CSS, Windows Forms
 **Tools:** GIT, VS Code
 **Other skills:** advanced Windows user, local network configuration in Cisco OS, Excel knowledge
+## Experience
+**CCNA R&S**
+Successfully passed the test in 2017 for the certificate.
+**Translator, 08.2018 – now**
+Volunteer translator online game from English into Russian using *Crowdin*.
+## Education
+Second year at the university at the faculty of Information Security as bachelor. Rolling Scopes school student.
+## English
+Little experience in translating games. About a year translated comics from English into Russian. All my experience with text only. Unsurely understand English speech and did not try to speak it.
