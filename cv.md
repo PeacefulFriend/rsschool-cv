@@ -21,9 +21,11 @@ I am novice frontend-developer studying in a speciality of a information securit
 ## Experience
 
 **CCNA R&S**
+
 Successfully passed the test in 2017 for the certificate.
 
 **Translator, 08.2018 – now**
+
 Volunteer translator online game from English into Russian using *Crowdin*.
 
 ## Education
