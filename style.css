@@ -1,0 +1,76 @@
+body {
+    margin: 0 auto 0 auto;
+    width: 1024px;
+    background-color: black;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    color: white;
+}
+
+header {
+    border-bottom-left-radius: 11px 21px;
+    width: 1024px;
+    height: 285px;
+    background-color: white;
+    color: black;
+}
+
+header img {
+    float: left;
+    height: 285px;
+    margin-right: 80px;
+    border-radius: 10px/20px;
+}
+
+header article {
+    padding-top: 15px;
+}
+
+header h1 {
+    font-size: 40px;
+}
+
+header article img {
+    height: 22px;
+    border-radius: 100%;
+    margin-right: 6px;
+    margin-top: -3px;
+}
+
+
+main {
+    height: auto;
+    margin-top: 50px;
+    padding: 45px;
+    border: 10px solid transparent;
+    border-left: 0;
+    border-image: linear-gradient(to right, transparent 0%, #640909 110%);
+    border-image-slice: 1;
+    background: linear-gradient(to right, transparent -15%, #d2d2d2 30%, #b6b6b6 90%);
+    color: black;
+    text-align: center;
+}
+
+.summary {
+    border-bottom: 2px solid #cccccc;
+}
+
+.info-grid {
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 80px;
+    text-align: left;
+}
+
+footer {
+    text-align: center;
+}
+
+/*width: 500px;
+height: 500px;
+border: double 10px transparent;
+border-radius: 25px/20px;
+background-image: linear-gradient(white, white), linear-gradient(to right, transparent 10%, #640909);
+background-origin: border-box;
+background-clip: content-box, border-box;*/
